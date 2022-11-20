@@ -9,5 +9,7 @@ The car’s engine is not powerful enough to drive up the hill without a head st
 
 Reinforcement learning technique called Q-Learning is used here to solve this problem. Q-Learning is an algorithm which attempts to learn a function or policy which takes an observation of the environment as input and returns an action as output. Q-Learning does this by determining which action is best in the current state as well as all future states.
 
-![image](https://user-images.githubusercontent.com/51359449/181657309-74f2f089-5049-4ec8-8939-e75f519877e5.png)
+![image](https://user-images.githubusercontent.com/68587770/202894618-b3ab410c-632b-4d48-bd51-baaf7ba9bb11.png)
+
+<!-- ![image](https://user-images.githubusercontent.com/51359449/181657309-74f2f089-5049-4ec8-8939-e75f519877e5.png) -->
  
