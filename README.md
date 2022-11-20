@@ -1,5 +1,4 @@
-# RL-Mountain-Car-Project
-# MountainCar Q-Learning example
+# RL-Mountain-Car-Q-Learning-Project
 
 Mountain Car is a classic reinforcement learning problem (solved here with Q-learning) where the objective is to create an algorithm which learns to climb a steep hill to reach the goal marked by a flag.
 
